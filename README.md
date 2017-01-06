@@ -1,2 +1,3 @@
 # hello-world
-Jusst another repository
+Just another repository
+I am what might be described as super boring.
